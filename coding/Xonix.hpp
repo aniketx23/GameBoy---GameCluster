@@ -1,0 +1,4 @@
+
+namespace GameBoy{
+    int Xonix();
+}
